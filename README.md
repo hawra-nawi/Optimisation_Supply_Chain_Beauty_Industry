@@ -9,7 +9,7 @@ This project explores strategies to address rising manufacturing costs in the be
 5. **Considerations for implementing changes**, such as ensuring product quality, regulatory compliance, and managing consumer perceptions.
 6. **Alternative strategies for managing costs** when expensive ingredients are essential, including bulk purchasing, long-term contracts, formulation innovation, alternative sourcing, and the use of AI and IoT technologies in manufacturing and other departments.
 
-The [Canva Presentation]([https://www.canva.com/your-presentation-link](https://www.canva.com/design/DAGIxHGnWvE/Jfb_fwXokNnOpbRmeGc5ZA/edit?utm_content=DAGIxHGnWvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) provides a visually engaging format for showcasing the project's data-driven approach, offering clear and informative graphics that illustrate the proposed solutions for balancing cost-effectiveness with product quality and consumer satisfaction in the beauty industry.
+The [Canva Presentation](https://www.canva.com/design/DAGIxHGnWvE/Jfb_fwXokNnOpbRmeGc5ZA/edit?utm_content=DAGIxHGnWvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) provides a visually engaging format for showcasing the project's data-driven approach, offering clear and informative graphics that illustrate the proposed solutions for balancing cost-effectiveness with product quality and consumer satisfaction in the beauty industry.
 
 ----
 
